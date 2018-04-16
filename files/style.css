@@ -282,6 +282,21 @@ header{
     float: left;
 }
 
+.small-nav-icon{
+    float: right;
+    margin: 30px;
+    cursor: pointer;
+}
+
+.small-nav-icon i{
+    font-size: 200%;
+    color: #fff;
+} 
+
+.sticky-nav .small-nav-icon i{
+    color: black;
+}
+
 
 /*---------------footer----------*/
 
