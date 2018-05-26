@@ -69,13 +69,8 @@ $(document).ready(function () {
     $('.js--drop').waypoint(function(direction){
         
         $('js--drop').addClass('animated bounceInDown');
-    });
-    
-    $('.js--small-nav').click(function(){
-       var nav = $('.js--main-nav');
-        nav.slideToggle(200);
-    });
-    
+    })
+
     
     
     
